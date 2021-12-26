@@ -134,7 +134,7 @@
 
 .title1{
 	box-sizing: border-box;
-	background-color: red;
+	background-color: green;
 	text-align: center;
 	border: 4px solid black;
 	width: 50%;
@@ -156,7 +156,7 @@
 
 .title2{
 	box-sizing: border-box;
-	background-color: white;
+	background-color: red;
 	text-align: center;
 	border: 4px solid black;
 	width: 50%;
@@ -178,7 +178,7 @@
 
 .title3{
 	box-sizing: border-box;
-	background-color: green;
+	background-color: light blue;
 	text-align: center;
 	border: 4px solid black;
 	width: 50%;
@@ -230,7 +230,7 @@
 
 .title1{
 	box-sizing: border-box;
-	background-color: red;
+	background-color: green;
 	text-align: center;
 	border: 4px solid black;
 	width: 50%;
@@ -252,7 +252,7 @@
 
 .title2{
 	box-sizing: border-box;
-	background-color: white;
+	background-color: green;
 	text-align: center;
 	border: 4px solid black;
 	width: 50%;
@@ -274,7 +274,7 @@
 
 .title3{
 	box-sizing: border-box;
-	background-color: green;
+	background-color: light blue;
 	text-align: center;
 	border: 4px solid black;
 	width: 50%;
